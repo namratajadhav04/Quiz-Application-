@@ -1,4 +1,4 @@
-# Quiz Application
+# Quiz Application using React
 A responsive and interactive **Quiz Application** built with **React, JavaScript, HTML, CSS**, and **JSON** for data storage.  
 This project demonstrates the power of React for dynamic UI rendering, state management, and smooth navigation while keeping the data layer lightweight with JSON. Designed with a warm UI theme for a smooth and engaging experience.
 
